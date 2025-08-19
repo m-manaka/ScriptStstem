@@ -1,0 +1,2 @@
+*.cpp text working-tree-encoding=cp932 eol=crlf
+*.h text working-tree-encoding=cp932 eol=crlf
